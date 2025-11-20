@@ -86,7 +86,7 @@ kubernetes==32.0.1
 langchain==0.3.23
 langchain-chroma==0.2.3
 langchain-community==0.3.21
-langchain-core==0.3.52
+langchain-core==0.3.80
 langchain-ollama==0.3.2
 langchain-text-splitters==0.3.8
 langcodes==3.5.0
